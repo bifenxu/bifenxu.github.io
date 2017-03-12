@@ -1,0 +1,48 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+
+body {
+  background-color: #FFED74;
+  text-align: center;
+  color: #191970;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+nav {
+  background-color: #E8C66A;
+}
+
+aside {
+    background-color: #FFC675;
+}
+header {
+  background-color:;
+}
+article {
+  background-color: #E89C6C;
+}
+footer {
+  background-color: #FF957E;
+} 
+div / section {
+    background-color:#FFE2B8;
+} 
+
+h1 { 
+	font-size: 88px;
+	margin-bottom:; 
+}
+
+h2	{ 
+	font-size: 50px;
+}
+
+hr  {
+  width: 200px;
+ }
+  
+p {
+ 	font-family: helvetica;
+	font-size: 44px;
+	color: #FF7F50;
+}
